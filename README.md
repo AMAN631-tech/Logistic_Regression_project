@@ -62,8 +62,6 @@ Evaluate final model using:
 
 Precision, Recall, F1-Score
 
-ROC-AUC (Soon I will do this as well)
-
 # 8. Conclusion
 
 Logistic Regression is effective for predicting Titanic survival.
